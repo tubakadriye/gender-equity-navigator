@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gender-equity-navigator",
+  "private_key_id": "5a54aed4da0b0d1eaa97e735f888061605a6c52a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5laAmkmWSsqPO\nilMBCYc1AW+j1dUr9tzofSbEOUJn9udIKoRouZKPSMwed7L4fyouPoEqQUz1q8v8\nf7Ln+3OCt6HuKcJMVgcDJABlSzAUwUo2CALLUz8mmcRJNXIMfcdaNw0TTziWrI+V\nsxPDPDRI4t8AuAR9e79JSGaisqDVfrGv3jhI3tw5jOnNZX+FKhOnp3OlC2JRZQ2y\nG3idjZUzknJVylOnaZQW03NKhmZ6lX9qKT4NEEuDRE/Ma1fvF6wSbDW4HDE+j+0F\nj5wlaUTP9jufRgHqMWlXMH+Xq4wsoY9e/BPbk2RrbiVDjOZm8tubQdyztxpN3yth\n49D0mqMVAgMBAAECggEAEYQLQQi5OH7O0hwhGGx3S+vuRwbUH1ml4PWK9qM23swh\naSDGLYIyUH688TU3+Zc6+nFgzIWsR1WnI5ZD4vxLGy/Mw0dCtOS7tbKsrOLLT3Is\n2GuqI9mgELsbmRNHx+EJMz0V6VglTadMyALGXztr7eMnzBASMGvBEqAYO8vjPTMW\nShB+JvvueyGrjKueM2fDoc5CEYKX1qf7JXlUFI8Ayw76Nhfh6sXNtihFJgon0BNj\n/MaCV1KqP3+jhd2ZFj5CLXuhb7IwMVn5TX6sY3c5qeQ8D43NTEw4eFoutaaiCJI0\nJ2cZBYHnwk3Ua5sTQm8buC0kdbQoyF4hEvQF/zO60QKBgQDmVpn+/ALVNIEpLtu8\nY9iraSqMZA0GbA4TCHAJcnFxUQSMnMY5b9HFjzNLZsfNU8vYXvnAu9E13NWKawDU\nj1QboalBnXtWEwGM1r/W39Z4YIoEU5YIazDmJ70BwuqEzoAhMt1FcuPqCcVYAJLu\nS5oKltpKS+pW6gEQLKKsReSFjQKBgQDOQp226Ty62BffEOzZKvZv0KarC5OrU/7l\nFM0fAZhepvIVmsyvRDT5mD5Ih/9VdAyNWyqPRACWS5Js1SZu73dk/qT+Gy6R+bLP\niUOeMlLe7jIW+ydcooLpgxFHAAKUDgQZKKdy8GWXTWrbULJK0Y8mwnBxnM/TkkQm\nDExB/vOdqQKBgQCVjfU/EfHk7MpQKxSRJWMxKH9v2CZ83Pvmb7wO5jeyE6CYi9JI\nyMmzNF9hvcJNFvNr8X7IHSqhhllAHmnTmZxKtJRo/g9uu7ht8aFtqrheQJBcbskj\nfjWpunOGCUCsKkgXRidVSFujQeTYVscP4haKeZgSVWg6NoWqMtEMefT+oQKBgQCI\n+IIFkpOqvI/1qSav/LDUhin4EmMI9mmhtROWUJff21uN71OX3GKVkX1i6zUriTpA\nsNbtdsoxBJSDQ3UXXFzcK6JjwKdHdxtAaLYHmwGfW2zWCAkWojDvYwOZM6+CpGAi\nWPYCBRRhyp54b/lGaC15HsxPFkSJCmvJHIeTl/wtqQKBgEB0JLhgfZ8IfVAM07H5\nmg5E7cu72c9OP9ylNXtVEHsC5tWgl7+8e0VUJHb1O0w3fGpZUpyCId8EucvP/Dms\nXl1GQzQCmylhNlphcwu2ifzfyFOT+LIdUAh8f/btMA/4cWs4dVQugS7D0YPjbZGl\nILyXQWx/dbcyooJ5lV84sguG\n-----END PRIVATE KEY-----\n",
+  "client_email": "gender-equity-navigator@gender-equity-navigator.iam.gserviceaccount.com",
+  "client_id": "111341751209782267355",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gender-equity-navigator%40gender-equity-navigator.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

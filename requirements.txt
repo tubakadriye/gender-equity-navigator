@@ -1,0 +1,6 @@
+mesop==0.12.8
+llama-index==0.11.22
+llama-index-core==0.11.22
+llama-index-vector-stores-vertexaivectorsearch==0.1.0
+google-cloud-aiplatform==1.70.0
+llama_index-llms-vertex==0.3.7
