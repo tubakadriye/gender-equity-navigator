@@ -1,8 +1,8 @@
-world_economic_forum/
-un-women-annual-reports/
-sustainability_development_goals_reports/
-heforshe/
-gender_snapschots/
+./world_economic_forum/
+./un-women-annual-reports/
+./sustainability_development_goals_reports/
+./heforshe/
+./gender_snapschots/
 .DS_Store
 .ipynb_checkpoints/
 gender-equity-navigator-5a54aed4da0b.json
