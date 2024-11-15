@@ -25,7 +25,7 @@ With Gender Equity Navigator, users can:
 - **Make Informed Decisions:** Leverage evidence-based insights to drive gender equality policies that align with organizational goals and global standards.
 
 ### Try It Out
-Access GEN at gender-equity-nav-135008850867.us-central1.run.app and explore gender equity topics with sample queries.
+Access GEN at [gender-equity-navigator](gender-equity-nav-135008850867.us-central1.run.app) and explore gender equity topics with sample queries.
 
 
 
