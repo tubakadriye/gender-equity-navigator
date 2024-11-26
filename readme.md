@@ -1,4 +1,5 @@
 ## Gender-Equity-Navigator
+![logo](./sources/images/gen_logo.jpeg)
 
 Gender Equity Navigator (GEN) is a powerful tool designed to address the critical global challenge of gender equity by providing organizations with data-driven insights and recommendations. Leveraging Retrieval-Augmented Generation (RAG) technology, GEN utilizes a comprehensive repository of global reports, articles, and research to offer clear, actionable guidance on gender equity topics. Users can ask complex questions and receive in-depth responses on subjects like diversity policies, gender pay disparities, and leadership representation.
 
